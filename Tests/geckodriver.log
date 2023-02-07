@@ -1,2 +1,473 @@
 1675207637612	geckodriver	INFO	Listening on 127.0.0.1:59456
 1675207640622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilemEwbZ9"
+1675534189412	geckodriver	INFO	Listening on 127.0.0.1:62811
+1675534192503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileUwtdmu"
+1675534193217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675534193223	Marionette	INFO	Listening on port 62819
+Read port: 62819
+WebDriver BiDi listening on ws://127.0.0.1:62812
+1675534193387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileUwtdmu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62812/devtools/browser/f2bf3bd0-2b63-43a0-a814-804c4092cc57
+1675534239084	Marionette	INFO	Stopped listening on port 62819
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675534199734	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675534199740	Marionette	INFO	Listening on port 62865
+Read port: 62865
+WebDriver BiDi listening on ws://127.0.0.1:62838
+1675534199910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile95wZfo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62838/devtools/browser/67790861-89dd-4856-bc47-6a3ace041a63
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675534206631	Marionette	INFO	Stopped listening on port 62865
+Dynamically enable window occlusion 1
+1675554060244	geckodriver	INFO	Listening on 127.0.0.1:52838
+1675554063294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilezfpv8u"
+1675554064021	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675554064027	Marionette	INFO	Listening on port 52847
+Read port: 52847
+WebDriver BiDi listening on ws://127.0.0.1:52839
+1675554064838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilezfpv8u\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52839/devtools/browser/f3d5bb19-d8b6-4c0c-a81b-682f92883d11
+1675554099320	Marionette	INFO	Stopped listening on port 52847
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675554071710	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675554071716	Marionette	INFO	Listening on port 52893
+Read port: 52893
+WebDriver BiDi listening on ws://127.0.0.1:52869
+1675554071894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileoWLxFq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52869/devtools/browser/e9063d08-9671-4add-ae2d-a66909ebc06a
+1675554076055	Marionette	INFO	Stopped listening on port 52893
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675554128889	geckodriver	INFO	Listening on 127.0.0.1:53012
+1675554131916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53013" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileBdVFji"
+1675554132300	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675554132306	Marionette	INFO	Listening on port 53020
+Read port: 53020
+WebDriver BiDi listening on ws://127.0.0.1:53013
+1675554132450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileBdVFji\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53013/devtools/browser/8fca0b85-c061-4dc0-ab08-c42af8d14277
+1675554166240	Marionette	INFO	Stopped listening on port 53020
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675554138656	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675554138669	Marionette	INFO	Listening on port 53067
+Read port: 53067
+WebDriver BiDi listening on ws://127.0.0.1:53037
+1675554138863	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileS3xQTO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53037/devtools/browser/3fc58730-9d93-441f-9b8d-4ded1970cd7c
+1675554143010	Marionette	INFO	Stopped listening on port 53067
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 693: TypeError: this.tablesData[table] is undefined
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675554593157	geckodriver	INFO	Listening on 127.0.0.1:53229
+1675554596183	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53230" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileuHqLuQ"
+1675554596542	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675554596548	Marionette	INFO	Listening on port 53237
+Read port: 53237
+WebDriver BiDi listening on ws://127.0.0.1:53230
+1675554596722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileuHqLuQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53230/devtools/browser/00159e22-74d4-4d2d-abff-3d9d08210be4
+1675554644571	Marionette	INFO	Stopped listening on port 53237
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675554602642	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675554602648	Marionette	INFO	Listening on port 53282
+WebDriver BiDi listening on ws://127.0.0.1:53256
+Read port: 53282
+1675554602951	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilePvjmVr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53256/devtools/browser/85520e35-4110-4a09-95ef-14299356eb8c
+1675554606605	Marionette	INFO	Stopped listening on port 53282
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675572014535	geckodriver	INFO	Listening on 127.0.0.1:53187
+1675572017604	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileSF3u4m"
+1675572018454	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675572018463	Marionette	INFO	Listening on port 53195
+Read port: 53195
+WebDriver BiDi listening on ws://127.0.0.1:53188
+1675572018630	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileSF3u4m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53188/devtools/browser/f4fd2952-5c6a-4c66-9229-ef0e344b937b
+1675572085717	Marionette	INFO	Stopped listening on port 53195
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilebPIYv9"
+1675572025659	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675572025665	Marionette	INFO	Listening on port 53242
+Read port: 53242
+WebDriver BiDi listening on ws://127.0.0.1:53215
+1675572025845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilebPIYv9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53215/devtools/browser/2288cc95-bfa4-4093-a745-82d327414020
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675572034032	Marionette	INFO	Stopped listening on port 53242
+Dynamically enable window occlusion 1
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1675572772261	geckodriver	INFO	Listening on 127.0.0.1:53467
+1675572775273	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53468" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile8ZoLrk"
+1675572775637	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675572775643	Marionette	INFO	Listening on port 53475
+Read port: 53475
+WebDriver BiDi listening on ws://127.0.0.1:53468
+1675572775813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile8ZoLrk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53468/devtools/browser/7aad349b-f251-4c93-a4dd-15e28144759c
+1675572808952	Marionette	INFO	Stopped listening on port 53475
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675572781574	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675572781579	Marionette	INFO	Listening on port 53522
+WebDriver BiDi listening on ws://127.0.0.1:53492
+Read port: 53522
+1675572781837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileQnwHue\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53492/devtools/browser/2f650725-6892-4823-b617-298922f59c6c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675572787973	Marionette	INFO	Stopped listening on port 53522
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+1675572974851	geckodriver	INFO	Listening on 127.0.0.1:53691
+1675572977875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53692" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileHQCIPJ"
+1675572978432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675572978438	Marionette	INFO	Listening on port 53699
+WebDriver BiDi listening on ws://127.0.0.1:53692
+Read port: 53699
+1675572978696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileHQCIPJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53692/devtools/browser/2b4cc30f-3a8b-47f4-ae85-2874328ac0b0
+1675573013346	Marionette	INFO	Stopped listening on port 53699
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53720" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilegbYSVd"
+1675572985010	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675572985017	Marionette	INFO	Listening on port 53750
+WebDriver BiDi listening on ws://127.0.0.1:53720
+Read port: 53750
+1675572985274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilegbYSVd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53720/devtools/browser/d9b0d058-0a2e-4ee2-ac5a-333c1c130bae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675572990989	Marionette	INFO	Stopped listening on port 53750
+Dynamically enable window occlusion 1
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675573230487	geckodriver	INFO	Listening on 127.0.0.1:53909
+1675573233495	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileEm0x8p"
+1675573233855	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573233861	Marionette	INFO	Listening on port 53917
+Read port: 53917
+WebDriver BiDi listening on ws://127.0.0.1:53910
+1675573234030	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileEm0x8p\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53910/devtools/browser/d22d3744-cf7e-46d5-a95c-b11b1b4940b9
+1675573273222	Marionette	INFO	Stopped listening on port 53917
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675573239711	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573239719	Marionette	INFO	Listening on port 53962
+Read port: 53962
+WebDriver BiDi listening on ws://127.0.0.1:53934
+1675573239939	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilewqgIXP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53934/devtools/browser/db6920d4-9317-4050-ae18-3f8cc014b953
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675573245687	Marionette	INFO	Stopped listening on port 53962
+Dynamically enable window occlusion 1
+JavaScript error: https://admin-demo.nopcommerce.com/lib_npm/jquery/jquery.min.js?v=LO1ZLwpRUE4YpyjPJfd6yZIfA9I, line 2: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675573369633	geckodriver	INFO	Listening on 127.0.0.1:54111
+1675573372657	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54112" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilemBKbGJ"
+1675573373226	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573373232	Marionette	INFO	Listening on port 54119
+WebDriver BiDi listening on ws://127.0.0.1:54112
+Read port: 54119
+1675573373491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilemBKbGJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54112/devtools/browser/cb9af7eb-4ca4-4e57-991f-44964a7c2b34
+1675573388698	Marionette	INFO	Stopped listening on port 54119
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675573378796	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573378801	Marionette	INFO	Listening on port 54165
+WebDriver BiDi listening on ws://127.0.0.1:54135
+Read port: 54165
+1675573379066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileGWqQnv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54135/devtools/browser/1e1a6602-50e9-41df-8d21-ff10b4524fb0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675573384697	Marionette	INFO	Stopped listening on port 54165
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675573508065	geckodriver	INFO	Listening on 127.0.0.1:54313
+1675573511122	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54314" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileLat780"
+1675573511479	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573511484	Marionette	INFO	Listening on port 54323
+Read port: 54323
+WebDriver BiDi listening on ws://127.0.0.1:54314
+1675573511653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileLat780\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54314/devtools/browser/73735bdb-a65b-4094-8bb4-8a0ab743b5c9
+1675573525400	Marionette	INFO	Stopped listening on port 54323
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675573517096	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573517101	Marionette	INFO	Listening on port 54370
+WebDriver BiDi listening on ws://127.0.0.1:54340
+Read port: 54370
+1675573517371	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileKSGeFE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54340/devtools/browser/175f983c-ccb9-4d2f-b888-1ad10f0ae269
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675573523361	Marionette	INFO	Stopped listening on port 54370
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675573671861	geckodriver	INFO	Listening on 127.0.0.1:54528
+1675573674874	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54529" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilewQMJyW"
+1675573675240	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573675246	Marionette	INFO	Listening on port 54536
+Read port: 54536
+WebDriver BiDi listening on ws://127.0.0.1:54529
+1675573675418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilewQMJyW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54529/devtools/browser/222f6fa2-a95a-4f88-9311-399115a7a655
+1675573692779	Marionette	INFO	Stopped listening on port 54536
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54555" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile4qxO1x"
+1675573680862	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573680868	Marionette	INFO	Listening on port 54584
+Read port: 54584
+WebDriver BiDi listening on ws://127.0.0.1:54555
+1675573681040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile4qxO1x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54555/devtools/browser/4f28d18b-f9fd-43a6-994f-5e2c9c9c4792
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675573686940	Marionette	INFO	Stopped listening on port 54584
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675573919559	geckodriver	INFO	Listening on 127.0.0.1:54753
+1675573922599	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54754" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileAe6b90"
+1675573923155	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573923160	Marionette	INFO	Listening on port 54761
+WebDriver BiDi listening on ws://127.0.0.1:54754
+Read port: 54761
+1675573923418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileAe6b90\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54754/devtools/browser/715e7e7f-deae-49b3-b3e4-6733d6c28899
+1675573929189	Marionette	INFO	Stopped listening on port 54761675573929408	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54779" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile55OXQP"
+1675573929818	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675573929825	Marionette	INFO	Listening on port 54809
+Read port: 54809
+WebDriver BiDi listening on ws://127.0.0.1:54779
+1675573929968	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile55OXQP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54779/devtools/browser/7208c1d1-d776-421f-8338-ff6dc71bb559
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675573936431	Marionette	INFO	Stopped listening on port 54809
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675574030046	geckodriver	INFO	Listening on 127.0.0.1:54966
+1675574033076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54967" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilewGEIFV"
+1675574033432	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675574033437	Marionette	INFO	Listening on port 54974
+Read port: 54974
+WebDriver BiDi listening on ws://127.0.0.1:54967
+1675574033610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilewGEIFV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54967/devtools/browser/03eafeab-a943-4403-8f81-14d2326e5abe
+1675574051569	Marionette	INFO	Stopped listening on port 54974
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileWOh7VE"
+1675574039286	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675574039292	Marionette	INFO	Listening on port 55026
+WebDriver BiDi listening on ws://127.0.0.1:54992
+Read port: 55026
+1675574039463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileWOh7VE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54992/devtools/browser/cbfade75-4628-4712-8b66-feb712335c4e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675574045566	Marionette	INFO	Stopped listening on port 55026
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675575236655	geckodriver	INFO	Listening on 127.0.0.1:55354
+1675575239692	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55355" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilelrEUIf"
+1675575240053	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675575240059	Marionette	INFO	Listening on port 55365
+Read port: 55365
+WebDriver BiDi listening on ws://127.0.0.1:55355
+1675575240231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilelrEUIf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55355/devtools/browser/cefabc24-1551-4ddb-be11-2d00e5c68411
+1675575259355	Marionette	INFO	Stopped listening on port 55365
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileezN8JN"
+1675575245919	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675575245925	Marionette	INFO	Listening on port 55412
+WebDriver BiDi listening on ws://127.0.0.1:55381
+Read port: 55412
+1675575246187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileezN8JN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55381/devtools/browser/dfe4e3b9-b966-481f-8465-8ddb06b94bcf
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675575256075	Marionette	INFO	Stopped listening on port 55412
+Dynamically enable window occlusion 1
+1675580630822	geckodriver	INFO	Listening on 127.0.0.1:57674
+1675580633854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57675" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileKfXOWJ"
+1675580634229	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675580634234	Marionette	INFO	Listening on port 57682
+Read port: 57682
+WebDriver BiDi listening on ws://127.0.0.1:57675
+1675580634404	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileKfXOWJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57675/devtools/browser/3eaf2dc0-051a-4218-a27b-898a90e0e2db
+1675580641691	Marionette	INFO	Stopped listening on port 57682
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675580641192	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675580641198	Marionette	INFO	Listening on port 57727
+Read port: 57727
+WebDriver BiDi listening on ws://127.0.0.1:57701
+1675580641377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile9yrTdG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57701/devtools/browser/d8b1d292-b679-4099-8ee5-2efd796ddaf3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675580648668	Marionette	INFO	Stopped listening on port 57727
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675580755390	geckodriver	INFO	Listening on 127.0.0.1:57877
+1675580758414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57878" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileQkkgHS"
+1675580758974	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675580758979	Marionette	INFO	Listening on port 57885
+WebDriver BiDi listening on ws://127.0.0.1:57878
+Read port: 57885
+1675580759243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileQkkgHS\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57878/devtools/browser/2077ea5b-f27f-48c1-a4d8-c8b469c631a8
+1675580805524	Marionette	INFO	Stopped listening on port 57885
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/url-classifier-skip-urls list() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+"
+1675580765489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675580765495	Marionette	INFO	Listening on port 57931
+WebDriver BiDi listening on ws://127.0.0.1:57901
+Read port: 57931
+1675580765676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileNeEiJw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57901/devtools/browser/518ca721-7296-4b0d-8584-a3eff7be5a01
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675580771832	Marionette	INFO	Stopped listening on port 57931
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675580982936	geckodriver	INFO	Listening on 127.0.0.1:58132
+1675580985974	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58133" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilemnvaIh"
+1675580986337	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675580986342	Marionette	INFO	Listening on port 58140
+Read port: 58140
+WebDriver BiDi listening on ws://127.0.0.1:58133
+1675580986504	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofilemnvaIh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58133/devtools/browser/9be20c64-6b6e-4d68-881c-f7097d5e6718
+1675580990428	Marionette	INFO	Stopped listening on port 58141675580992873	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58161" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile8qlJgw"
+1675580993222	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675580993227	Marionette	INFO	Listening on port 58181
+WebDriver BiDi listening on ws://127.0.0.1:58161
+Read port: 58181
+1675580993483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile8qlJgw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58161/devtools/browser/bbc86231-91bb-4b8b-bbb2-d1346d708400
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675580998980	Marionette	INFO	Stopped listening on port 58181
+Dynamically enable window occlusion 1
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 587: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed
+1675581824078	geckodriver	INFO	Listening on 127.0.0.1:58407
+1675581827120	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58408" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile3uPh36"
+1675581827829	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675581827836	Marionette	INFO	Listening on port 58415
+Read port: 58415
+WebDriver BiDi listening on ws://127.0.0.1:58408
+1675581828018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofile3uPh36\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58408/devtools/browser/5e6ca753-99e6-4d6d-a277-08a9c0792632
+1675581843885	Marionette	INFO	Stopped listening on port 58415
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58432" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileZszLur"
+1675581835110	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1675581835117	Marionette	INFO	Listening on port 58460
+Read port: 58460
+WebDriver BiDi listening on ws://127.0.0.1:58432
+1675581835296	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\rusgl\\AppData\\Local\\Temp\\rust_mozprofileZszLur\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58432/devtools/browser/ba2f23a1-b6b2-4477-aa9b-ad5b0638d5ed
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://admin-demo.nopcommerce.com."
+1675581841447	Marionette	INFO	Stopped listening on port 58460
+Dynamically enable window occlusion 1
+JavaScript error: resource://services-settings/Utils.jsm, line 230: TypeError: NetworkError: Network request failed

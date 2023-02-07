@@ -2,8 +2,9 @@ import pytest
 from selenium import webdriver
 
 
-@pytest.fixture(params=["chrome"], scope="class")
+@pytest.fixture(params=["chrome"], scope='class')
 def init_driver(request):
+    global driver
     if request.param == "chrome":
         options = webdriver.Chrome()
         options.headless = False
@@ -17,6 +18,7 @@ def init_driver(request):
     #     options.headless = False
     #     driver = webdriver.Edge()
     request.cls.driver = driver
-    # driver.maximize_window()
+    driver.maximize_window()
     yield
-    driver.close()
+    driver.quit()
+

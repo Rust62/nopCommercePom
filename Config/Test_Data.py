@@ -9,4 +9,8 @@ class TestData:
     Admin_area_demo = "Admin area demo"
     logout = "//a[normalize-space()='Logout']"
     Logout = "Logout"
-    Scr_Sh = "./Utilities/test_login_page_title.png"
+    Scr_Sh = "Screenshots/test_homePageTitle.png"
+    Scr_Sh1 = "Screenshots/add_new_customer.png"
+
+
+

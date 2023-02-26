@@ -13,4 +13,3 @@ class TestData:
     Scr_Sh1 = "Screenshots/add_new_customer.png"
 
 
-

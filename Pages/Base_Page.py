@@ -20,9 +20,13 @@ class BasePage:
         element = WebDriverWait ( self.driver , 5 ).until ( ec.visibility_of_element_located ( by_locator ) )
         return bool ( element )
 
+    def get_element(self , by_locator):
+        element = WebDriverWait ( self.driver , 5 ).until ( ec.presence_of_element_located( by_locator ) )
+        return element
+
     def get_title(self , title):
         WebDriverWait ( self.driver , 5 ).until ( ec.title_is ( title ) )
-        title = self.driver.title
+        return self.driver.title
 
     def do_clear(self , by_locator):
         WebDriverWait ( self.driver , 5 ).until ( ec.visibility_of_element_located ( by_locator ) ).clear ()
